@@ -8,3 +8,6 @@ __pycache__
 
 # Build
 build
+
+# Old output
+output/old_output
