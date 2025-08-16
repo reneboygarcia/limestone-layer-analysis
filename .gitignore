@@ -1,4 +1,8 @@
 # Python cache
 __pycache__
 
-# CSV files
+# Python package
+*.egg-info
+.DS_Store
+.env
+
