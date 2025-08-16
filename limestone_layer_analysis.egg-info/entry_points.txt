@@ -1,0 +1,2 @@
+[console_scripts]
+limestone = script.cli:main
